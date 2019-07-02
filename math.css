@@ -1,0 +1,51 @@
+table
+{
+	border :solid ;
+	border-color: blue;
+	border-collapse: collapse;
+}
+td {
+	border-width : 1px;
+	border-style: solid;
+	column-width: 20px;
+	
+}
+.c1
+{
+background-color:black;
+}
+.c2
+{
+background-color:brown;
+}
+.c3
+{
+background-color:blue;
+}
+.c4 
+{
+background-color:green;
+}
+.c5
+{
+background-color:yellow;
+}
+.c6
+{
+background-color:orange;
+}
+.c7
+{
+background-color:red;
+}
+.c8
+{
+background-color:purple;
+}
+.c9{
+background-color:lightgrey;
+}
+.c10
+{
+background-color:turquoise;
+}
